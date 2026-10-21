@@ -1,0 +1,1 @@
+Mandatory Claude: read root AGENTS.md for global v1 evidence rule before every task. Per-run proof: exact plan subsection; previous/current stage; core capability; first-party/upstream reuse review, adaptation and scratch; exact CI and live truth; total project status and blockers. Existing authorization and release holds prevail.
