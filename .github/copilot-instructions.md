@@ -1,0 +1,1 @@
+Mandatory Copilot: read root AGENTS.md GLOBAL-AGENT-RUN-PROOF v1 every run. Identify exact plan part and prior/after stage, show real core app progress, safe licensed earlier code reused or adapted vs scratch, exact original CI/verified live availability, whole DONE/IN PROGRESS/NOT STARTED/BLOCKED project progress. Follow existing stricter security/permission gates.
